@@ -96,7 +96,7 @@ def delete_record():
 
 def main():
     while True:
-        print("\n===== Personal Expense Tracker =====")
+        print("\n==== Personal Expense Tracker ====")
         print("1. Add Income")
         print("2. Add Expense")
         print("3. View All Records")
