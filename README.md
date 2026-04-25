@@ -15,11 +15,14 @@ In progress - 1st semester ongoing
 - Prime Number Checker
 - Simple Calculator
 - Student Grade Calculator
+- Library System
+- Student Database
 
 ## Python Programs
 - Contact Book
 - Expense Tracker
 - To Do List
+- Password Manager
 
 ## Languages
 C Programming | Python
