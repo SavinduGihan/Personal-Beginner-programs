@@ -1,28 +1,21 @@
 # Personal Beginner Programs 💻
 
-## About
-Personal practice programs built during
-1st semester at University of Moratuwa | 2026
+This repository contains my personal beginner programming practice, small programs, and logic-building exercises.
 
-## Status
-In progress - 1st semester ongoing
+## Topics Covered
 
-## C Programs
-- Attendance Management System
-- Fibonacci Sequence
-- Mini Banking System
-- Number Guessing Game
-- Prime Number Checker
-- Simple Calculator
-- Student Grade Calculator
-- Library System
-- Student Database
+- Basic syntax
+- Input and output
+- Variables and data types
+- Operators and expressions
+- Conditional statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Simple problem solving exercises
+- Small beginner-level projects
 
-## Python Programs
-- Contact Book
-- Expense Tracker
-- To Do List
-- Password Manager
+## Purpose
 
-## Languages
-C Programming | Python
+The purpose of this repository is to improve my programming skills through regular practice outside university coursework.
